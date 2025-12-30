@@ -1,4 +1,4 @@
-name: Generate ASCII Artwork
+name: Generate ASCII Artwork Multi Job
 
 on: push
 
